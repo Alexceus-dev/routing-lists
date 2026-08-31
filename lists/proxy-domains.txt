@@ -1,0 +1,37 @@
+# Сервисы, которые в России не работают или работают плохо, — им нужен туннель
+# всегда, независимо от прочих правил.
+#
+# Мессенджеры (просьба владельца 01.09: «нужно чтобы telegram и whatsapp
+# работали с телефона»)
+telegram.org
+t.me
+telegram.me
+telesco.pe
+tdesktop.com
+whatsapp.com
+whatsapp.net
+wa.me
+# Видео и соцсети
+youtube.com
+youtu.be
+ytimg.com
+googlevideo.com
+instagram.com
+cdninstagram.com
+facebook.com
+fbcdn.net
+twitter.com
+x.com
+twimg.com
+# Разработка и ИИ
+openai.com
+chatgpt.com
+anthropic.com
+claude.ai
+github.com
+githubusercontent.com
+docker.com
+discord.com
+discordapp.com
+notion.so
+figma.com
