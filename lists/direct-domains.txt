@@ -1,0 +1,36 @@
+# Российские сервисы
+yandex.ru
+ya.ru
+vk.com
+mail.ru
+sber.ru
+sberbank.ru
+tinkoff.ru
+alfabank.ru
+gosuslugi.ru
+nalog.ru
+wildberries.ru
+ozon.ru
+moysklad.ru
+avito.ru
+2gis.ru
+rutube.ru
+kinopoisk.ru
+# Китайские сервисы
+alibaba.com
+aliexpress.com
+alipay.com
+taobao.com
+1688.com
+alicdn.com
+aliyun.com
+qq.com
+weixin.qq.com
+wechat.com
+baidu.com
+bilibili.com
+# По решению владельца — прямым путём
+reddit.com
+redd.it
+redditstatic.com
+redditmedia.com
